@@ -6,3 +6,4 @@ GET Request----> https://profile-image-upload.herokuapp.com/file/:filename
 
 POST Request----> https://profile-image-upload.herokuapp.com/file/upload
 
+DELETE Request---->  https://profile-image-upload.herokuapp.com/file/:FileName
